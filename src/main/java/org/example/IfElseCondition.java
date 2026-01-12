@@ -32,6 +32,7 @@ public class IfElseCondition {
             System.out.println("Een number");
         } else {
             System.out.print("Odd number");
+
         }
     }
 }
